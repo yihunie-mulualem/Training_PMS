@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Performance Management system\\PerMSfront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Branch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Branch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\BranchActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\BranchActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Cluster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Cluster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ReducerBranch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\ReducerBranch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\ClusterAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\ClusterAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\UserAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\UserAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Userlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Userlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\QuarterlyPerformance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\QuarterlyPerformance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\EmployeeAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\EmployeeAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\RoleAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\RoleAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Role.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Role.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\JobPositionAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\JobPositionAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\JobPositionsDemo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\JobPositionsDemo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditCluster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\EditCluster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\districtActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\districtActions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\District.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\District.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\DepartmentAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\DepartmentAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Department.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Department.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\CreateUser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\CreateUser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterDepartment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\RegisterDepartment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\fisicalyearAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\fisicalyearAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterQuarterlyPerformance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\RegisterQuarterlyPerformance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\MonthAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\MonthAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\QuarterlyPerformanceReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\QuarterlyPerformanceReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\MonthReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\MonthReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\FisicalYearReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\FisicalYearReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ClusterReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\ClusterReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\QuarterlyPerformanceAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\actions\\QuarterlyPerformanceAction.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterEmployee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\RegisterEmployee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\EmployeeReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\EmployeeReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditEmployees.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\EditEmployees.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterBranch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\RegisterBranch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\setup\\ProtectedRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\RoleReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:front\\src\\Reducer\\RoleReducer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReducerBranch.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ReducerBranch.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\ReducerBranch.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ReducerBranch.js",
+              "RelativeToolTip": "front\\src\\Reducer\\ReducerBranch.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-25T05:34:30.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchActions.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\BranchActions.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\BranchActions.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\BranchActions.js",
+              "RelativeToolTip": "front\\src\\actions\\BranchActions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:25:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\User.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\User.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\User.js",
+              "RelativeToolTip": "front\\src\\setup\\User.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T06:31:53.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\RoleAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\RoleAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\RoleAction.js",
+              "RelativeToolTip": "front\\src\\actions\\RoleAction.js",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwF4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T06:28:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Role.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Role.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Role.js",
+              "RelativeToolTip": "front\\src\\setup\\Role.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T06:28:20.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\EmployeeAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\EmployeeAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\EmployeeAction.js",
+              "RelativeToolTip": "front\\src\\actions\\EmployeeAction.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T07:54:14.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditCluster.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditCluster.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\EditCluster.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditCluster.js",
+              "RelativeToolTip": "front\\src\\setup\\EditCluster.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:44:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "districtActions.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\districtActions.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\districtActions.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\districtActions.js",
+              "RelativeToolTip": "front\\src\\actions\\districtActions.js",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:43:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "District.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\District.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\District.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\District.js",
+              "RelativeToolTip": "front\\src\\setup\\District.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:43:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\DepartmentAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\DepartmentAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\DepartmentAction.js",
+              "RelativeToolTip": "front\\src\\actions\\DepartmentAction.js",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:42:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Department.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Department.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Department.js",
+              "RelativeToolTip": "front\\src\\setup\\Department.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:36:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\UserAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\UserAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\UserAction.js",
+              "RelativeToolTip": "front\\src\\actions\\UserAction.js",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:35:42.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUser.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\CreateUser.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\CreateUser.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\CreateUser.js",
+              "RelativeToolTip": "front\\src\\setup\\CreateUser.js",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:35:33.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClusterAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\ClusterAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\ClusterAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\ClusterAction.js",
+              "RelativeToolTip": "front\\src\\actions\\ClusterAction.js",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:29:00.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cluster.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Cluster.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Cluster.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Cluster.js",
+              "RelativeToolTip": "front\\src\\setup\\Cluster.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:28:55.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Branch.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Branch.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Branch.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Branch.js",
+              "RelativeToolTip": "front\\src\\setup\\Branch.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:25:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Login.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Login.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Login.js",
+              "RelativeToolTip": "front\\src\\setup\\Login.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-24T05:22:34.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobPositionAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\JobPositionAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\JobPositionAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\JobPositionAction.js",
+              "RelativeToolTip": "front\\src\\actions\\JobPositionAction.js",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T07:53:51.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobPositionsDemo.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\JobPositionsDemo.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\JobPositionsDemo.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\JobPositionsDemo.js",
+              "RelativeToolTip": "front\\src\\setup\\JobPositionsDemo.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T13:55:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Header.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Header.js",
+              "RelativeDocumentMoniker": "front\\src\\Header.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Header.js",
+              "RelativeToolTip": "front\\src\\Header.js",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T07:20:58.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDepartment.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterDepartment.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\RegisterDepartment.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterDepartment.js",
+              "RelativeToolTip": "front\\src\\setup\\RegisterDepartment.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T06:49:30.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClusterReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ClusterReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\ClusterReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\ClusterReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\ClusterReducer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T06:02:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FisicalYearReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\FisicalYearReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\FisicalYearReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\FisicalYearReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\FisicalYearReducer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T06:02:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fisicalyearAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\fisicalyearAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\fisicalyearAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\fisicalyearAction.js",
+              "RelativeToolTip": "front\\src\\actions\\fisicalyearAction.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T06:00:48.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MonthAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\MonthAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\MonthAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\MonthAction.js",
+              "RelativeToolTip": "front\\src\\actions\\MonthAction.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T05:55:55.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MonthReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\MonthReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\MonthReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\MonthReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\MonthReducer.js",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T05:51:52.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditEmployees.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditEmployees.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\EditEmployees.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\EditEmployees.js",
+              "RelativeToolTip": "front\\src\\setup\\EditEmployees.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T08:22:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterBranch.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterBranch.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\RegisterBranch.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterBranch.js",
+              "RelativeToolTip": "front\\src\\setup\\RegisterBranch.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T08:21:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterEmployee.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterEmployee.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\RegisterEmployee.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterEmployee.js",
+              "RelativeToolTip": "front\\src\\setup\\RegisterEmployee.js",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAJwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T08:12:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\EmployeeReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\EmployeeReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\EmployeeReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\EmployeeReducer.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T07:58:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuarterlyPerformanceAction.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\QuarterlyPerformanceAction.js",
+              "RelativeDocumentMoniker": "front\\src\\actions\\QuarterlyPerformanceAction.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\actions\\QuarterlyPerformanceAction.js",
+              "RelativeToolTip": "front\\src\\actions\\QuarterlyPerformanceAction.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-14T11:16:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuarterlyPerformanceReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\QuarterlyPerformanceReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\QuarterlyPerformanceReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\QuarterlyPerformanceReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\QuarterlyPerformanceReducer.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-14T10:42:25.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuarterlyPerformance.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\QuarterlyPerformance.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\QuarterlyPerformance.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\QuarterlyPerformance.js",
+              "RelativeToolTip": "front\\src\\setup\\QuarterlyPerformance.js",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-14T10:38:54.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Employee.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Employee.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Employee.js",
+              "RelativeToolTip": "front\\src\\setup\\Employee.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-14T10:37:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProtectedRoute.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\ProtectedRoute.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\ProtectedRoute.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\ProtectedRoute.js",
+              "RelativeToolTip": "front\\src\\setup\\ProtectedRoute.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-13T12:16:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterQuarterlyPerformance.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterQuarterlyPerformance.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\RegisterQuarterlyPerformance.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\RegisterQuarterlyPerformance.js",
+              "RelativeToolTip": "front\\src\\setup\\RegisterQuarterlyPerformance.js",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAkwK4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T08:47:23.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\package.json",
+              "RelativeDocumentMoniker": "front\\package.json",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\package.json",
+              "RelativeToolTip": "front\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:14:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleReducer.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\RoleReducer.js",
+              "RelativeDocumentMoniker": "front\\src\\Reducer\\RoleReducer.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\Reducer\\RoleReducer.js",
+              "RelativeToolTip": "front\\src\\Reducer\\RoleReducer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T08:42:08.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Userlist.js",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Userlist.js",
+              "RelativeDocumentMoniker": "front\\src\\setup\\Userlist.js",
+              "ToolTip": "D:\\Performance Management system\\PerMSfront\\front\\src\\setup\\Userlist.js",
+              "RelativeToolTip": "front\\src\\setup\\Userlist.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-11T07:45:17.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
