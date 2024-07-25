@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Performance Management system\\PerMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\jobpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\jobpositioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\headquarterlypms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\headquarterlypms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\headquarterlypmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\headquarterlypmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\bussinesunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\bussinesunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\fiscalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\fiscalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\fisicalyearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\fisicalyearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\dbcontext\\permscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\dbcontext\\permscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\monthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\monthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\migrations\\20240614120100_june.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\migrations\\20240614120100_june.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\employee_approve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\employee_approve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|d:\\performance management system\\perms\\perms\\perms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30899098-EB61-4579-9221-3360C444B49B}|PerMS\\PerMS.csproj|solutionrelative:perms\\perms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMS\\PerMS\\Models\\Branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerMS\\Models\\Branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMS\\PerMS\\Models\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerMS\\Models\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Performance Management system\\PerMS\\PerMS\\Models\\JobpositionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerMS\\Models\\JobpositionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Role.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Role.cs",
+              "RelativeToolTip": "PerMS\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:48:38.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\JobPosition.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\JobPosition.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\JobPosition.cs",
+              "RelativeToolTip": "PerMS\\Models\\JobPosition.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:05:34.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobpositionService.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\JobpositionService.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\JobpositionService.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\JobpositionService.cs",
+              "RelativeToolTip": "PerMS\\Models\\JobpositionService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:04:31.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BussinesUnit.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\BussinesUnit.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\BussinesUnit.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\BussinesUnit.cs",
+              "RelativeToolTip": "PerMS\\Models\\BussinesUnit.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:40:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Branchservice.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Branchservice.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Branchservice.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Branchservice.cs",
+              "RelativeToolTip": "PerMS\\Models\\Branchservice.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAzwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:40:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\EmployeeService.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\EmployeeService.cs",
+              "RelativeToolTip": "PerMS\\Models\\EmployeeService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwGYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:27:09.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PerMSContext.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\DBContext\\PerMSContext.cs",
+              "RelativeDocumentMoniker": "PerMS\\DBContext\\PerMSContext.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\DBContext\\PerMSContext.cs",
+              "RelativeToolTip": "PerMS\\DBContext\\PerMSContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:46:01.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FisicalYearController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\FisicalYearController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\FisicalYearController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\FisicalYearController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\FisicalYearController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:19:30.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Program.cs",
+              "RelativeDocumentMoniker": "PerMS\\Program.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Program.cs",
+              "RelativeToolTip": "PerMS\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:27:51.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MonthController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\MonthController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\MonthController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\MonthController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\MonthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:17:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\AuthService.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\AuthService.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\AuthService.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\AuthService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:42:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:42:12.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:14:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240614120100_june.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Migrations\\20240614120100_june.cs",
+              "RelativeDocumentMoniker": "PerMS\\Migrations\\20240614120100_june.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Migrations\\20240614120100_june.cs",
+              "RelativeToolTip": "PerMS\\Migrations\\20240614120100_june.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:01:01.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee_Approve.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Employee_Approve.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Employee_Approve.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Employee_Approve.cs",
+              "RelativeToolTip": "PerMS\\Models\\Employee_Approve.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:00:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Month.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Month.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Month.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Month.cs",
+              "RelativeToolTip": "PerMS\\Models\\Month.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:43:45.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Employee.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Employee.cs",
+              "RelativeToolTip": "PerMS\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:42:47.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FiscalYear.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\FiscalYear.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\FiscalYear.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\FiscalYear.cs",
+              "RelativeToolTip": "PerMS\\Models\\FiscalYear.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:36:10.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:41:04.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:40:50.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeadQuarterlyPmsController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\HeadQuarterlyPmsController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\HeadQuarterlyPmsController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\HeadQuarterlyPmsController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\HeadQuarterlyPmsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:40:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAK8AAAAgMzMzMzMowLUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:23:19.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:40:01.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistrictController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\DistrictController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\DistrictController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\DistrictController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\DistrictController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:17:56.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\ClaimController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\ClaimController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:49:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPositionController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\JobPositionController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\JobPositionController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\JobPositionController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\JobPositionController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:52:17.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "PerMS\\Controllers\\BranchController.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "PerMS\\Controllers\\BranchController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:52:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\Login.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\Login.cs",
+              "RelativeToolTip": "PerMS\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:54:44.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PerMS.csproj",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\PerMS.csproj",
+              "RelativeDocumentMoniker": "PerMS\\PerMS.csproj",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\PerMS.csproj",
+              "RelativeToolTip": "PerMS\\PerMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T06:45:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\appsettings.json",
+              "RelativeDocumentMoniker": "PerMS\\appsettings.json",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\appsettings.json",
+              "RelativeToolTip": "PerMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T06:12:51.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeadQuarterlyPms.cs",
+              "DocumentMoniker": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\HeadQuarterlyPms.cs",
+              "RelativeDocumentMoniker": "PerMS\\Models\\HeadQuarterlyPms.cs",
+              "ToolTip": "D:\\Performance Management system\\PerMS\\PerMS\\Models\\HeadQuarterlyPms.cs",
+              "RelativeToolTip": "PerMS\\Models\\HeadQuarterlyPms.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:48:35.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
